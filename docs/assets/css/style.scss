@@ -1,0 +1,65 @@
+---
+---
+
+{
+  @import "jekyll-theme-minimal";
+
+  /* Dark mode styles */
+  body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+  }
+
+  .wrapper {
+      background-color: #0d1117;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+      color: #e6edf3;
+  }
+
+  a {
+      color: #58a6ff;
+      &:hover {
+          color: #79c0ff;
+      }
+  }
+
+  code {
+      background-color: #21262d;
+      color: #c9d1d9;
+  }
+
+  pre {
+      background-color: #21262d;
+      code {
+          background-color: transparent;
+      }
+  }
+
+  hr {
+      background-color: #30363d;
+  }
+
+  table {
+      th, td {
+          border: 1px solid #30363d;
+      }
+      tr:nth-child(even) {
+          background-color: #161b22;
+      }
+  }
+
+  blockquote {
+      border-left: 3px solid #30363d;
+      color: #8b949e;
+  }
+
+  header, section {
+      border-bottom: 1px solid #30363d;
+  }
+
+  footer {
+      border-top: 1px solid #30363d;
+  }
+}
