@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last Updated: November 26, 2024
+Last Updated: December 3, 2024
 
 ## 1. Acceptance of Terms
 
@@ -17,23 +17,25 @@ WrakRPG is a Discord bot providing RPG gaming services, including but not limite
 ## 3. User Obligations
 
 Users agree to:
-- Provide accurate information when using the Bot
 - Not exploit bugs or glitches
 - Not attempt to manipulate or abuse game systems
 - Not engage in any activity that disrupts the Bot's services
 - Not use automated systems or bots to interact with the service
+- Not sell any services or items provided by the Bot for real money
 
 ## 4. Virtual Currency and Purchases
 
 ### 4.1 Wrakium
 - Wrakium is a virtual currency with no real-world value
 - Purchases of Wrakium are final and non-refundable
-- Wrakium cannot be transferred between users or converted to real money
+- Wrakium can be transferred between users but not converted to real money
 
 ### 4.2 Subscriptions
+- Subscriptions can be purchased using Wrakium only
 - Subscription benefits are provided on a monthly basis
-- Cancellations take effect at the end of the current billing period
-- No refunds for partial subscription periods
+- Benefits are non-transferable between users
+- Subscription status and benefits may be revoked if terms are violated
+- No refunds will be provided for subscription purchases
 
 ## 5. Intellectual Property
 
@@ -57,7 +59,7 @@ We may modify these terms at any time. Continued use of the Bot constitutes acce
 
 ## 9. Contact
 
-For questions about these Terms, contact us at [Your Contact Info].
+For questions about these Terms, contact us at wrakrpg@gmail.com.
 
 ## 10. Discord Terms
 

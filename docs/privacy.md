@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: November 26, 2024
+Last Updated: December 3, 2024
 
 ## 1. Information We Collect
 
@@ -37,13 +37,29 @@ We do not sell or share personal information with third parties except:
 
 We implement reasonable security measures to protect user data. However, no method of transmission over the internet is 100% secure.
 
-## 5. Data Retention
+## 5. Your Data Rights
+
+You have the following rights regarding your data:
+- Request a copy of your player data through the Bot's export command
+- Request deletion of your data by contacting us
+- Opt-out of non-essential data collection
+- View your current data through the Bot's profile commands
+
+Your exported data will include:
+- Player statistics and progress
+- Inventory items
+- Currency balances
+- Achievement records
+
+To export your data, contact us at wrakrpg@gmail.com.
+
+## 6. Data Retention
 
 We retain user data for:
 - Active accounts: As long as the account is active
 - Transaction records: As required by law
 
-## 6. User Rights
+## 7. User Rights
 
 You have the right to:
 - Access your personal data
@@ -51,14 +67,14 @@ You have the right to:
 - Opt out of non-essential data collection
 - Export your data
 
-## 7. Children's Privacy
+## 8. Children's Privacy
 
 WrakRPG is not intended for users under 13. We do not knowingly collect information from children under 13.
 
-## 8. Changes to Privacy Policy
+## 9. Changes to Privacy Policy
 
 We may update this policy. Users will be notified of significant changes through Discord.
 
-## 9. Contact Us
+## 10. Contact Us
 
 For privacy concerns, contact us at wrakrpg@gmail.com.
