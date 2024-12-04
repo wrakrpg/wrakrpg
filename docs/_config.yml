@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: wrakrpg Documentation
+description: Terms of Service and Privacy Policy for wrakrpg
+show_downloads: false
+markdown: kramdown
+
+# Dark mode settings
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Custom styles
+sass:
+  style: compressed
