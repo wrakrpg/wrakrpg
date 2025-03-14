@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: December 3, 2024
+Last Updated: March 14, 2025
 
 ## 1. Information We Collect
 
@@ -40,16 +40,15 @@ We implement reasonable security measures to protect user data. However, no meth
 ## 5. Your Data Rights
 
 You have the following rights regarding your data:
-- Request a copy of your player data through the Bot's export command
+- View your purchase history via Discord's Billing/Transaction History page
+- Request transaction logs of Discord purchases stored by contacting us
 - Request deletion of your data by contacting us
-- Opt-out of non-essential data collection
+- Opt-out of non-essential data collection (currently none)
 - View your current data through the Bot's profile commands
 
 Your exported data will include:
-- Player statistics and progress
-- Inventory items
-- Currency balances
-- Achievement records
+- Currency Balance
+- Transaction History
 
 To export your data, contact us at wrakrpg@gmail.com.
 
